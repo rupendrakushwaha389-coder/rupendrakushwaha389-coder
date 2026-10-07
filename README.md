@@ -22,36 +22,6 @@
 * 💼 Available for **Freelance Projects & Development Opportunities**
 * ⚡ I enjoy converting ideas into **real-world applications**
 
----
-
-## 🧑‍💻 Developer Profile
-
-```text
-Rupendra Kushwaha
-│
-├── 💻 Full-Stack Development
-│   ├── Frontend
-│   │   ├── HTML5
-│   │   ├── CSS3
-│   │   ├── JavaScript
-│   │   └── Bootstrap
-│   │
-│   ├── Backend
-│   │   ├── C#
-│   │   ├── ASP.NET Core MVC
-│   │   └── Web APIs
-│   │
-│   └── Database
-│       └── SQL Server
-│
-├── 📚 Currently Learning
-│   └── Data Structures & Algorithms
-│
-└── 🎯 Career Goal
-    └── Professional Full-Stack .NET Developer
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -91,19 +61,7 @@ Data Structures & Algorithms
 
 ---
 
-## 🔥 Core Skills
 
-| Technology      | Focus                                 |
-| --------------- | ------------------------------------- |
-| 🟦 C#           | OOP • Logic • Application Development |
-| 🟪 ASP.NET Core | MVC • Web Applications • APIs         |
-| 🟨 JavaScript   | DOM • Logic • Interactive UI          |
-| 🌐 HTML & CSS   | Responsive Web Design                 |
-| 🎨 Bootstrap    | Responsive UI & Components            |
-| 🗄️ SQL Server  | Database & Queries                    |
-| 🔧 Git & GitHub | Version Control                       |
-
----
 
 ## 🚀 What I Build
 
@@ -120,37 +78,3 @@ Data Structures & Algorithms
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupendrakushwaha389-coder&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupendrakushwaha389-coder&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rupendrakushwaha389-coder&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupendrakushwaha389-coder&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupendrakushwaha389-coder&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🤝 Connect
